@@ -5,5 +5,5 @@ O Projeto Flex Turismo foi desenvolvido para consolidar os conhecimentos em Flex
   - Reponsivo
   - HTML5
   - CSS3
-  - Boas Praticas de Programção 
+  - Boas Práticas de Programação 
   - Simula uma página de agência de turismo.
