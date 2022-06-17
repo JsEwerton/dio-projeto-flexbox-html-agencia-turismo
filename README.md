@@ -1,6 +1,6 @@
 # Projeto Flex Turismo
 
-O Projeto Flex Turismo foi desenvolvido para consolidar os conhecimentos em FlexBox e HTML5.
+O Projeto Flex Turismo foi desenvolvido para consolidar os conhecimentos em FlexBox, HTML5 e CSS.
 
   - Reponsivo
   - HTML5
